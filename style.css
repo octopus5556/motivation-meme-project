@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3rem;
+
+
+}
+.roshuimage {
+border: 5px white;
+text-align: center;
+width: 500px;
+
+    }
+    #poster {
+        margin-left: 25px;
+        width: 50%;
+        margin-top: 100px;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+    }
